@@ -14,7 +14,7 @@ Currently, I work with **ASP.NET (Framework 4.8)** integrated with **JavaScript*
 - 🎨 **UI/UX modernization** of legacy interfaces
 - ⚙️ **Refactoring** for improved performance and scalability
 
-**Languages:** C#, JavaScript, Python · **Frameworks & Web:** .NET Framework, HTML, CSS, Bootstrap · **Databases:** SQL Server, PostgreSQL · **Tools:** Git, GitHub
+**Languages:** C#, JavaScript, Python · **Frameworks & Web:** .NET Framework, Angular, HTML, CSS, Bootstrap · **Databases:** SQL Server, PostgreSQL · **Tools:** Git, GitHub
 
 ---
 
