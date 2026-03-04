@@ -8,7 +8,7 @@
 
 I'm a Full Stack Developer and Information Systems student at the Federal University of Pernambuco (UFPE), with a strong focus on the .NET ecosystem. I'm passionate about building reliable web applications and improving legacy systems through modern engineering practices.
 
-Currently, I work with **ASP.NET (Framework 4.8)** integrated with **JavaScript**, concentrating my efforts on:
+Currently, I work with **ASP.NET WebForms (Framework 4.8)** integrated with **JavaScript**, concentrating my efforts on:
 
 - 🗄️ **Database restructuring & optimization**
 - 🎨 **UI/UX modernization** of legacy interfaces
